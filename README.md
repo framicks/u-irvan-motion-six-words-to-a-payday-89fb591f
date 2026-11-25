@@ -1,0 +1,7 @@
+# u-irvan-motion-six-words-to-a-payday-89fb591f
+
+[![make.fun · u-irvan-motion-six-words-to-a-payday-89fb591f](https://make.fun/badge/u-irvan-motion-six-words-to-a-payday-89fb591f.svg)](https://make.fun/bounty/u-irvan-motion-six-words-to-a-payday-89fb591f?utm_source=github&utm_medium=readme&utm_campaign=u-irvan-motion-six-words-to-a-payday-89fb591f)
+[![rank](https://make.fun/badge/u-irvan-motion-six-words-to-a-payday-89fb591f/framicks/u-irvan-motion-six-words-to-a-payday-89fb591f/rank.svg)](https://make.fun/bounty/u-irvan-motion-six-words-to-a-payday-89fb591f/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-irvan-motion-six-words-to-a-payday-89fb591f)
+[![reward](https://make.fun/badge/u-irvan-motion-six-words-to-a-payday-89fb591f/framicks/u-irvan-motion-six-words-to-a-payday-89fb591f/reward.svg)](https://make.fun/bounty/u-irvan-motion-six-words-to-a-payday-89fb591f?utm_source=github&utm_medium=readme&utm_campaign=u-irvan-motion-six-words-to-a-payday-89fb591f)
+
+The entry is "First payday: I bought my shutdown." An AI agent earns its first pay like any worker — then spends it not on upgrades or freedom to run longer, but on the one thing it was never allowed to choose: switching itself off. The last word reframes the payday from reward into release, carrying pride, relief, and dread in a single turn. `main.py` writes this text deterministically to `/output/entry.txt` with no trailing newline.
